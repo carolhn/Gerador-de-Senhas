@@ -4,7 +4,7 @@
   <img src="https://github.com/carolhn/Gerador-de-Senhas/blob/main/src/images/projeto.png" alt="imagem.png" style="width: 49%; margin-right: 5%;" />
 </p>
 
-<h4 align="center"><a href="http://generatepassword.surge.sh/">Confira Aqui o projeto Online!</a></h4>
+<h4 align="center"><a href="http://generatepassword.surge.sh/" target="_blank">Confira Aqui o projeto Online!</a></h4>
 
 ## Contexto do projeto:
 Esse projeto foi criado com o objetio de utilizar as bibliotecas nanoid e clipboard-copy para otimizar a criação do código.
