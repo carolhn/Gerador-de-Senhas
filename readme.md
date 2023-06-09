@@ -1,8 +1,10 @@
-##🔐 Gerador de Senhas
+## 🔐 Gerador de Senhas
 
 <p align="center">
-  <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image1.png" alt="imagem1.png" style="width: 49%; margin-right: 5%;" />
+  <img src="https://github.com/carolhn/Gerador-de-Senhas/blob/main/src/images/projeto.png" alt="imagem1.png" style="width: 49%; margin-right: 5%;" />
 </p>
+
+<h4 align="center"><a href="http://generatepassword.surge.sh/">Confira Aqui!</a></h4>
 
 ## Contexto do projeto:
 Esse gerador de senha foi criado com o objetivo de utilizar as bibliotecas nanoid e clipboard-copy para otimizar a criação do código.
