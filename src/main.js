@@ -15,5 +15,11 @@ passwordBtnEl.addEventListener('click', () => {
 // copia a senha
 displayPasswordEl.addEventListener('click', (event) => {
     copy(event.target.innerHTML)
-    alert('Password copied')
-})
+    const alertEl = document.createElement('div');
+    alertEl.classList.add('custom-alert');
+    alertEl.innerHTML = 'Senha copiada!';
+    document.body.appendChild(alertEl);
+    setTimeout(() => {
+        document.body.removeChild(alertEl);
+    }, 1000);
+});
